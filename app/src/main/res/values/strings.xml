@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">Bar registration</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="ok_public_place_title">Подтверждено посещение\nобщественного места</string>
+    <string name="ok_show_confirmation_text">Предъявите данное подтверждение при входе.</string>
+    <string name="ok_show_confirmation_time_text">Подтверждение действует в течение</string>
+    <string name="ok_minute">%02d:%02d минут</string>
+    <string name="ok_bla_bla_text">При регистрации Вы подтвердили согласие на получение оповещения о возможном контакте с посетителем с подтвержденным COVID-19.\nВ случае, если в данном общественном месте во время Вашего визита находился посетитель с подтвержденным COVID-19, Вам придет сообщение.</string>
+
+    <string name="fields_hint_type">Бар, ресторан, кафе, клуб</string>
+    <string name="fields_hint_owner">Юр. лицо (ООО \"Веселье\")</string>
+    <string name="fields_hint_name">Название (Мята)</string>
+    <string name="fields_hint_address">Адрес</string>
+
+    <string name="fiends_info">Информацию для заполнения полей можно взять с бумажки с QR кодом посещаемого заведения ¯\\_(ツ)_\/¯ </string>
+
+</resources>
